@@ -1,0 +1,9 @@
+C:\D盘\PLV\CNPC_App2013\CNPC_App_git\CNPC_App\CNPCApp\bin\Debug\CNPCApp.exe.config
+C:\D盘\PLV\CNPC_App2013\CNPC_App_git\CNPC_App\CNPCApp\bin\Debug\CNPCApp.exe
+C:\D盘\PLV\CNPC_App2013\CNPC_App_git\CNPC_App\CNPCApp\bin\Debug\CNPCApp.pdb
+C:\D盘\PLV\CNPC_App2013\CNPC_App_git\CNPC_App\CNPCApp\bin\Debug\Aliyun.OSS.dll
+C:\D盘\PLV\CNPC_App2013\CNPC_App_git\CNPC_App\CNPCApp\obj\Debug\CNPCApp.MainFrom.resources
+C:\D盘\PLV\CNPC_App2013\CNPC_App_git\CNPC_App\CNPCApp\obj\Debug\CNPCApp.Properties.Resources.resources
+C:\D盘\PLV\CNPC_App2013\CNPC_App_git\CNPC_App\CNPCApp\obj\Debug\CNPCApp.csproj.GenerateResource.Cache
+C:\D盘\PLV\CNPC_App2013\CNPC_App_git\CNPC_App\CNPCApp\obj\Debug\CNPCApp.exe
+C:\D盘\PLV\CNPC_App2013\CNPC_App_git\CNPC_App\CNPCApp\obj\Debug\CNPCApp.pdb

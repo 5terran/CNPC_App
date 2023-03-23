@@ -7,3 +7,15 @@ C:\D盘\PLV\CNPC_App2013\CNPC_App_git\CNPC_App\CNPCApp\obj\Debug\CNPCApp.Propert
 C:\D盘\PLV\CNPC_App2013\CNPC_App_git\CNPC_App\CNPCApp\obj\Debug\CNPCApp.csproj.GenerateResource.Cache
 C:\D盘\PLV\CNPC_App2013\CNPC_App_git\CNPC_App\CNPCApp\obj\Debug\CNPCApp.exe
 C:\D盘\PLV\CNPC_App2013\CNPC_App_git\CNPC_App\CNPCApp\obj\Debug\CNPCApp.pdb
+D:\PLV\CNPC_App\CNPC_App\CNPCApp\bin\Debug\CNPCApp.exe.config
+D:\PLV\CNPC_App\CNPC_App\CNPCApp\bin\Debug\CNPCApp.exe
+D:\PLV\CNPC_App\CNPC_App\CNPCApp\bin\Debug\CNPCApp.pdb
+D:\PLV\CNPC_App\CNPC_App\CNPCApp\bin\Debug\Aliyun.OSS.dll
+D:\PLV\CNPC_App\CNPC_App\CNPCApp\obj\Debug\CNPCApp.csproj.AssemblyReference.cache
+D:\PLV\CNPC_App\CNPC_App\CNPCApp\obj\Debug\CNPCApp.MainFrom.resources
+D:\PLV\CNPC_App\CNPC_App\CNPCApp\obj\Debug\CNPCApp.Properties.Resources.resources
+D:\PLV\CNPC_App\CNPC_App\CNPCApp\obj\Debug\CNPCApp.csproj.GenerateResource.cache
+D:\PLV\CNPC_App\CNPC_App\CNPCApp\obj\Debug\CNPCApp.csproj.CoreCompileInputs.cache
+D:\PLV\CNPC_App\CNPC_App\CNPCApp\obj\Debug\CNPCApp.csproj.CopyComplete
+D:\PLV\CNPC_App\CNPC_App\CNPCApp\obj\Debug\CNPCApp.exe
+D:\PLV\CNPC_App\CNPC_App\CNPCApp\obj\Debug\CNPCApp.pdb

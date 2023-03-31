@@ -25,8 +25,8 @@ namespace CNPCApp
         private XmlDocument xmldoc;
         private XmlNode xmlnode;
         private XmlElement xmlelem;
-        public const string AccessId = "LTAIpcYQMvwJJjNx";
-        public const string AccessKey = "ETDv1zIYy1PnAwWMnKeR1Dt5pzvvtV";
+        public const string AccessId = "";
+        public const string AccessKey = "";
         public const string Endpoint = "http://oss-cn-shanghai.aliyuncs.com";
         public const string BucketName = "ynytbnsh";
 
@@ -77,8 +77,8 @@ namespace CNPCApp
             if (intHour == iHour && intMinute == iMinute && intSecond == iSecond)
             {
                 //到时自动触发上传
-                UploadOss();
-                LoadOssInfoXML();
+                // UploadOss();
+                // LoadOssInfoXML();
             }
         }
 

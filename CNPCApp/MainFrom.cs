@@ -108,11 +108,11 @@ namespace CNPCApp
         {
             // 读取备份数据库配置文件
             LoadXmlConfig();
-            LoadUpDataDbOssInfo();
+            //LoadUpDataDbOssInfo();
 
             // 
             LoadDbBakInfoXML();
-            LoadOssInfoXML();
+            //LoadOssInfoXML();
 
             // 启动定时器开始自动备份
             timer.Enabled = true;
@@ -136,7 +136,7 @@ namespace CNPCApp
 
 
         /// <summary>
-        /// c测试连接数据库
+        /// 测试连接数据库
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>
